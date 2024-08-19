@@ -1,0 +1,21 @@
+,WU Birds,UB Rats,BR Lizards,RG Raccoons,GW Rabbits,WB Bats,UR Otters,BG Squirrels,RW Mice,GU Frogs,W Brave-Kin,W Lifecreed,U Lightshell,U Skyskipper,B Daggerfang,B Glidedive,R Kindlespark,R Roughshod,G Bakersbane,G Treeguard
+WU Birds,,Weak,Unplayable,Unplayable,Weak,Strong,Weak,Unplayable,Weak,Strong,Weak,Strong,Weak,Strong,Unplayable,Weak,Unplayable,Unplayable,Unplayable,Weak
+UB Rats,,,Weak,Unplayable,Unplayable,Weak,Strong,Strong,Unplayable,Weak,Unplayable,Unplayable,Strong,Weak,Strong,Weak,Weak,Unplayable,Weak,Unplayable
+BR Lizards,,,,Weak,Unplayable,Strong,Strong,Weak,Weak,Unplayable,Unplayable,Weak,Weak,Unplayable,Weak,Strong,Strong,Weak,Unplayable,Unplayable
+RG Raccoons,,,,,Weak,Unplayable,Weak,Strong,Strong,Weak,Weak,Unplayable,Unplayable,Unplayable,Weak,Unplayable,Weak,Strong,Strong,Weak
+GW Rabbits,,,,,,Weak,Unplayable,Weak,Strong,Strong,Strong,Weak,Unplayable,Weak,Unplayable,Unplayable,Unplayable,Weak,Weak,Strong
+WB Bats,,,,,,,Unplayable,Weak,Weak,Unplayable,Weak,Strong,Unplayable,Weak,Weak,Strong,Weak,Unplayable,Unplayable,Unplayable
+UR Otters,,,,,,,,Unplayable,Weak,Weak,Unplayable,Unplayable,Strong,Weak,Weak,Weak,Strong,Weak,Unplayable,Unplayable
+BG Squirrels,,,,,,,,,Unplayable,Weak,Unplayable,Unplayable,Weak,Unplayable,Strong,Weak,Unplayable,Weak,Strong,Weak
+RW Mice,,,,,,,,,,Unplayable,Strong,Weak,Unplayable,Unplayable,Unplayable,Unplayable,Weak,Strong,Weak,Weak
+GU Frogs,,,,,,,,,,,Weak,Weak,Weak,Strong,Unplayable,Unplayable,Unplayable,Unplayable,Weak,Strong
+W Brave-Kin,,,,,,,,,,,,Medium,Weak,Medium,Weak,Weak,Weak,Medium,Medium,Medium
+W Lifecreed,,,,,,,,,,,,,Weak,Medium,Weak,Medium,Medium,Weak,Weak,Medium
+U Lightshell,,,,,,,,,,,,,,Medium,Medium,Medium,Medium,Weak,Medium,Weak
+U Skyskipper,,,,,,,,,,,,,,,Weak,Medium,Weak,Weak,Weak,Medium
+B Daggerfang,,,,,,,,,,,,,,,,Medium,Medium,Medium,Medium,Weak
+B Glidedive,,,,,,,,,,,,,,,,,Medium,Weak,Weak,Weak
+R Kindlespark,,,,,,,,,,,,,,,,,,Medium,Weak,Weak
+R Roughshod,,,,,,,,,,,,,,,,,,,Medium,Medium
+G Bakersbane,,,,,,,,,,,,,,,,,,,,Medium
+G Treeguard,,,,,,,,,,,,,,,,,,,,

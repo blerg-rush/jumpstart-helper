@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Birds",
+    "colours": ["W", "U"],
+    "creature_types": ["Bird"]
+  },
+  {
+    "name": "Rats",
+    "colours": ["U", "B"],
+    "creature_types": ["Rat"]
+  },
+  {
+    "name": "Lizards",
+    "colours": ["B", "R"],
+    "creature_types": ["Lizard"]
+  },
+  {
+    "name": "Raccoons",
+    "colours": ["R", "G"],
+    "creature_types": ["Raccoon"]
+  },
+  {
+    "name": "Rabbits",
+    "colours": ["G", "W"],
+    "creature_types": ["Rabbit"]
+  },
+  {
+    "name": "Bats",
+    "colours": ["W", "B"],
+    "creature_types": ["Bat"]
+  },
+  {
+    "name": "Otters",
+    "colours": ["U", "R"],
+    "creature_types": ["Otter"]
+  },
+  {
+    "name": "Squirrels",
+    "colours": ["B", "G"],
+    "creature_types": ["Squirrel"]
+  },
+  {
+    "name": "Mice",
+    "colours": ["R", "W"],
+    "creature_types": ["Mouse"]
+  },
+  {
+    "name": "Frogs",
+    "colours": ["G", "U"],
+    "creature_types": ["Frog"]
+  },
+  {
+    "name": "Brave-Kin",
+    "colours": ["W"],
+    "creature_types": ["Mouse", "Rabbit"]
+  },
+  {
+    "name": "Lifecreed",
+    "colours": ["W"],
+    "creature_types": ["Bat", "Bird"]
+  },
+  {
+    "name": "Lightshell",
+    "colours": ["U"],
+    "creature_types": ["Otter", "Rat"]
+  },
+  {
+    "name": "Skyskipper",
+    "colours": ["U"],
+    "creature_types": ["Bird", "Frog"]
+  },
+  {
+    "name": "Daggerfang",
+    "colours": ["B"],
+    "creature_types": ["Rat", "Squirrel"]
+  },
+  {
+    "name": "Glidedive",
+    "colours": ["B"],
+    "creature_types": ["Bat", "Lizard"]
+  },
+  {
+    "name": "Kindlespark",
+    "colours": ["R"],
+    "creature_types": ["Lizard", "Otter"]
+  },
+  {
+    "name": "Roughshod",
+    "colours": ["R"],
+    "creature_types": ["Mouse", "Raccoon"]
+  },
+  {
+    "name": "Bakersbane",
+    "colours": ["G"],
+    "creature_types": ["Raccoon", "Squirrel"]
+  },
+  {
+    "name": "Treeguard",
+    "colours": ["G"],
+    "creature_types": ["Frog", "Rabbit"]
+  }
+]
